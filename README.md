@@ -1,4 +1,4 @@
-![github regression framework](https://github.com/user-attachments/assets/e876bd52-0027-453a-88b4-0f1ab5c8567e)# TJS_Prediction
+# TJS_Prediction
 
 This repository contains the Pytorch implementation code for the paper "Data-Driven Approaches for Predicting Tommy John Surgery Risk in Major League Baseball Pitchers"
 
@@ -15,7 +15,7 @@ pytorch : 2.5.1
 # 1. Architectures
 ![Uploading github regression framework.pn![github classification framework](https://github.com/user-attachments/assets/5e3cbe52-1f08-4c21-bd41-2525cf17a717)
 g…]()
-
+![github regression framework](https://github.com/user-attachments/assets/e876bd52-0027-453a-88b4-0f1ab5c8567e)
 # 2. Preprocessing
 In this study, we utilized MLB pitching data from the 2016 to 2023 seasons, characterized by the extensive use of ‘Trackman’ technology to capture detailed pitch metrics. The data was gathered through the Pybaseball [14] package in Python, resulting in a dataset of 5,537,981 pitches with 94 distinct attributes, including metrics such as pitch velocity, spin rate, release angle, and pitch type. The dataset includes only regular-season games.
 
