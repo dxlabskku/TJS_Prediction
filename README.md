@@ -41,6 +41,10 @@ For the models used in the Regression Task, please refer to the model in the "Re
 # 6. Results on Regression
 ![image](https://github.com/user-attachments/assets/c65cee4e-73bd-43ce-99e3-ca1b2bac6750)
 
+# 7. SHAP interpretation
+By comparing the results of the original full-feature model with the model restricted to the top 20 SHAP-identified features, we observed only a minor decrease in R2 (0.06) and a modest decrease in 100-Day RMSE (2.2), as shown in Figure 11c. This relatively small performance gap suggests that the selected 20 features not only capture the model’s most critical predictive signals but also preserve a strong level of accuracy.
+![image](https://github.com/user-attachments/assets/932a029b-20a0-434a-a9ea-8ab43e80a28d)
+![image](https://github.com/user-attachments/assets/70b80f25-81b0-4f0a-a826-a48c8d6f43dc)
 
 
 
