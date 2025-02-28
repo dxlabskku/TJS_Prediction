@@ -1,4 +1,4 @@
-# TJS_Prediction
+# Tommy John Surgery(TJS)_Prediction
 
 This repository contains the Pytorch implementation code for the paper "Data-Driven Approaches for Predicting Tommy John Surgery Risk in Major League Baseball Pitchers"
 
